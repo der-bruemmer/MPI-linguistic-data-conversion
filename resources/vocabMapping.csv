@@ -1,0 +1,13 @@
+MappingKey,MappingValue
+familyClassUri,http://wals.info/languagefamily
+familyClassProperty,http://purl.org/dc/terms/isPartOf
+subFamilyClassUri,http://wals.info/languagesubfamily
+featureClassUri,http://wals.info/feature
+featureNameProperty,http://wals.info/vocabulary/featureName
+languageClassUri,http://wals.info/language
+languageNameProperty,http://wals.info/vocabulary/languageName
+geoLatProperty,http://www.w3.org/2003/01/geo/wgs84_pos#lat
+geoLongProperty,http://www.w3.org/2003/01/geo/wgs84_pos#long
+genusProperty,http://wals.info/vocabulary/hasGenus
+isoCodeProperty,http://wals.info/vocabulary/hasIsoCode
+valueDescriptionsProperty,http://wals.info/vocabulary/hasValueDescription
